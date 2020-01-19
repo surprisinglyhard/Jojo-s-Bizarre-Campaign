@@ -3,16 +3,16 @@ User: ?????
 Phenomenon
 
 Stand Power:
-While activated any creature that extends their pinky finger falls unconcious
+While activated any creature that extends their ring finger falls unconcious
 creatures that collapse this way cannot be awoken until stand is de activated
 
 Range
 ???m
 
 Stand perameters
-Destructive Power		    D	1d6
-Speed				            D	1d6
-Persistence			        D	1d6
+Destructive Power		D	1d6
+Speed				D	1d6
+Persistence			D	1d6
 Development Potential		D	1d6
-Precision			          B	1d10
-Range				            B	1d10
+Precision			B	1d10
+Range				B	1d10
