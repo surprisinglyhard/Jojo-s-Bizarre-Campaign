@@ -1,0 +1,16 @@
+Humanoid
+
+Sentient
+
+Stand Power: Can mark targets with a touch
+Objects it later touches become launched at the target
+
+Long Distance
+
+Stand perameters
+Strength- 	Destructive Power		A	1d12
+Dexterity- 	Speed				B	1d10
+Constitution- 	Persistence			D	1d6
+Intelligence- 	Development Potential		C	1d8
+Wisdom- 	Precision			B	1d10
+Charisma- 	Range				A	1d12

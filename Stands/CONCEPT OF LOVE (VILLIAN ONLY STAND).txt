@@ -1,0 +1,17 @@
+User: 空涙 ー Sora Namida
+
+Humanoid stand
+
+Non-sentient
+
+Stand Power: allows the user to charm non stand users with a wink
+
+Close range
+
+Stand perameters
+Strength- 	Destructive Power		C	1d8
+Dexterity- 	Speed				C	1d8
+Constitution- 	Persistence			A	1d12
+Intelligence- 	Development Potential		C	1d8
+Wisdom- 	Precision			C	1d8
+Charisma- 	Range				F	1d4
