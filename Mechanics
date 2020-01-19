@@ -1,0 +1,24 @@
+Initiative
+Speed die
+
+AC
+Based on speed rank
+S - 10
+A - 8
+B - 6
+C - 4
+D - 3
+F - 2
+
+HP
+Equal to persistance score
+
+To Hit
+Roll precision rank die
+for each 4 above the necessary to hit vaue an aditional Destructive power die is rolled
+
+Crits
+if a die crits you can roll the die again and add the new value rolled to the initial number
+
+Resting
+recover half your hitpoints on a full nights rest
