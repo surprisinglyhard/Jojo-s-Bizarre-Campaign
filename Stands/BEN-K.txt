@@ -1,7 +1,12 @@
-LONG RANGE 
-AUTOMATIC
-NON HUMANOID STAND - LOOKS LIKE SHARK
+User: ?????
 
-WHILE ACTIVATED TWENTY METER RANGE
+Non-humanoid (Shark)
 
-ATTACKS ANY THING THAT TOUCHES THE GROUND
+Non-sentient
+
+Stand Power: Attacks any thing that touches the ground; can only be in one place at a time, closest object has priority.
+(The floor is lava but with Jaws)
+
+Range: ?????
+
+Auto Pilot
