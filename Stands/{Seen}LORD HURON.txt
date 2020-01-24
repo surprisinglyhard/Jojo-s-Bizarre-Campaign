@@ -5,7 +5,7 @@ NON HUMANOID - FIREFLIES
 
 THEY ENTER OBJECTS AND ANIMATE THEM
 
-RANGE: 
+RANGE: 8M
 
 Stand perameters
 Destructive Power		D	1d6
