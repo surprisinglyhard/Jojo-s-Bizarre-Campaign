@@ -1,0 +1,16 @@
+Stand User: (Bruno)
+
+LONG RANGE COLONY STAND
+NON HUMANOID - FIREFLIES
+
+THEY ENTER OBJECTS AND ANIMATE THEM
+
+RANGE: 
+
+Stand perameters
+Destructive Power		D	1d6
+Speed				D	1d6
+Persistence			B	1d10
+Development Potential		B	1d10
+Precision			D	1d6
+Range				C	1d8
