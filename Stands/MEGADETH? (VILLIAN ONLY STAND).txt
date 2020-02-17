@@ -15,3 +15,11 @@ Persistence			S	1d20
 Development Potential		C	1d8
 Precision			B	1d10
 Range				D	1d6
+
+possible name changes
+  doses and mimosas
+  counting crows
+  le festin
+  Mr blue sky
+  fighting gold
+  
