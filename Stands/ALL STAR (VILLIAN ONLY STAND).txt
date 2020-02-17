@@ -16,3 +16,5 @@ Persistence			D	1d6
 Development Potential		D	1d6
 Precision			B	1d10
 Range				B	1d10
+
+Stand battle: another running though the town after this guy while he maintains equal distance so his power still works
