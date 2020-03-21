@@ -1,0 +1,41 @@
+CLOSE RANGE SENTIENT HUMANOID STAND
+
+GROWS IN SIZE AS USER BECOMES AGRIER
+
+FULL SIZE IS HUMAN SIZE
+REGULAR IS HAND SIZED
+
+ALSO HAS THE ABILITY TO HOLD SOMEONE BY THEIR SHADOW SO THEY CANNOT FLEE
+
+User: ?????
+
+Humanoid Stand
+
+Sentient
+
+Stand Power: Grows in size as user's anger increases
+Can hold a target by their shadow
+
+Reach: ?????
+
+Close range stand
+
+Stand perameters - at Min
+Destructive Power		E	1d8
+Speed				E	1d8
+Persistence			A	1d12
+Development Potential		E	1d8
+Precision			E	1d8
+Range				E	1d4
+
+Stand perameters - at Max
+Destructive Power		A	1d8
+Speed				A	1d8
+Persistence			A	1d12
+Development Potential		E	1d8
+Precision			A	1d8
+Range				E	1d4
+
+Personality: Cheerful, Violent, Virtuous, non expressive till they are overcome with emotion
+Unusual Trait: flys in and out of rages as fast as turning a light switch on and off but remains un-expressive till they limit breack
+Weakness: very emotional does not only feel mad and jumps from one emotion to the next
