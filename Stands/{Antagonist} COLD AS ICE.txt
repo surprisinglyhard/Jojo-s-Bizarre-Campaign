@@ -1,2 +1,19 @@
-stand continually drains heat from objects it touches
-even after it leaves them
+User: ????
+
+Humanoid stand
+
+Non sentient
+
+Stand Power: stand continually drains heat from objects it has touched
+
+Range: ????
+
+close range stand
+
+Stand perameters
+Strength- 	Destructive Power		A	1d8
+Dexterity- 	Speed				A	1d8
+Constitution- 	Persistence			E	1d12
+Intelligence- 	Development Potential		D	1d8
+Wisdom- 	Precision			B	1d8
+Charisma- 	Range				E	1d4
