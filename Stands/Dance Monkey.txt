@@ -1,0 +1,2 @@
+when this stand touches an object it can recreact wounds that object has taken
+reverse cronological order?
