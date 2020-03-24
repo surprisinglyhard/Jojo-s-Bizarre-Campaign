@@ -19,5 +19,10 @@ Intelligence- 	Development Potential		C	1d8
 Wisdom- 	Precision			C	1d8
 Charisma- 	Range				F	1d4
 
+Personality: cheerful, optimistic, motherly, violent, expressive
+
+Weaknesses: vain, doesnt think when mad
+
+distinctive trait: very beautiful outside, tons of foul langauge
+
 Stand battle: they amass a ton of non stand using follwers to attack the heroes with utulizing machinery
-might be first battle after arrow shattering
