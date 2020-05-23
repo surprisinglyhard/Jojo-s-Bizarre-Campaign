@@ -1,1 +1,5 @@
-Things this stands hits with its wand (exteded finger wand) become separated from the whole
+Tool stand
+
+Finger wand
+
+Things this wand touches become cubes and separate from the whole
