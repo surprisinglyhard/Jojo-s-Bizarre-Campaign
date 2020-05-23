@@ -1,2 +1,5 @@
-think morde ult
-high lord wolnir
+Long range automatic stand
+
+Exists on a timer
+
+Explodes when timer is done
