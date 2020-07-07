@@ -1,0 +1,2 @@
+Stand that materializes as a gtrid pattern across all surfaces in range
+as the user touches a square other squares that share a color with it
