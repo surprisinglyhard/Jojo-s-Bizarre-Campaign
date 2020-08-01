@@ -12,9 +12,9 @@ Range: 15m radius
 Auto Pilot
 
 Stand perameters
-Destructive Power		A	1d12
-Speed				C	1d8
-Persistence			B	1d10
+Destructive Power		A	5d4
+Speed				C	3d4
+Persistence			B4d4
 Development Potential		E	1d4
-Precision			B	1d10
-Range				C	1d8
+Precision			B	4d4
+Range				C	3d4
