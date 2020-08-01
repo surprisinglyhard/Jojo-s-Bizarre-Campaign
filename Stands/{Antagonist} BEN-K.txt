@@ -7,6 +7,14 @@ Non-sentient
 Stand Power: Attacks any thing that touches the ground; can only be in one place at a time, closest object has priority.
 (The floor is lava but with Jaws)
 
-Range: ?????
+Range: 15m radius
 
 Auto Pilot
+
+Stand perameters
+Destructive Power		A	1d12
+Speed				C	1d8
+Persistence			B	1d10
+Development Potential		E	1d4
+Precision			B	1d10
+Range				C	1d8
