@@ -12,7 +12,7 @@ Range:?????
 Close range stand
 
 Stand perameters
-Strength- 	Destructive Power		C	1d8
+Strength- 	Destructive Power		B	1d8
 Dexterity- 	Speed				B	1d8
 Constitution- 	Persistence			A	1d12
 Intelligence- 	Development Potential		C	1d8
