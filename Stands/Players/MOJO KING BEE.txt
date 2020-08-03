@@ -3,3 +3,10 @@ User: matt
 SHAPE CHANGING STAND
 
 CAN AQUIRE THE ABILITIES OF OTHER ANIMALS THE STAND HAS SEEN
+
+Persistence: E
+Range: D
+Destructive Power: C
+Speed: C
+Precision: C
+Development Potential: B
