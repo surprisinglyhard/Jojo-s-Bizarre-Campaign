@@ -1,8 +1,5 @@
-Initiative
-Speed die
-
 AC
-Based on speed rank
+Based on speed rank (meets it beats it)
 S - 15
 A - 11
 B - 9
@@ -10,16 +7,34 @@ C - 7
 D - 5
 E - 3
 
-HP
+When close range stands do a western shoot out kind of deal they will roll speed before each bought
+
+Hit Points
 Equal to persistance score
+S - 20/21
+A - 18/19
+B - 16/17
+C - 14/15
+D - 12/13
+E - 10/11
 
 To Hit
-Roll precision rank die
-for each 4 above the necessary to hit vaue an aditional Destructive power die is rolled
+Roll precision
 
 Crits
-if a die crits you can roll the die again and add the new value rolled to the initial number
+if all die crit you can roll the dice again and add the new value rolled to the initial number
 
 Wounds
 1. shaken
-2. incapacitated/ deaths door rolls
+2. incapacitated/ deaths door
+
+refernce for relation to stand user stats
+
+Power - Str
+Speed - Dex
+Range - Cha
+Durability - Con
+Precision - Wis
+Potential - Int
+
+
