@@ -19,3 +19,5 @@ Persistence			B	4d4
 Development Potential		E	1d4
 Precision			B	4d4
 Range				C	3d4
+
+Character
