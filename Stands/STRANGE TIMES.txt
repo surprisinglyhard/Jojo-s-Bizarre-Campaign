@@ -1,0 +1,2 @@
+AOE type stand
+replicates items that touch
