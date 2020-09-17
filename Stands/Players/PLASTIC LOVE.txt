@@ -12,9 +12,9 @@ Can increase light for short periods of time
 RANGE: 8M
 
 Stand perameters
-Destructive Power		D	1d6
-Speed				D	1d6
-Persistence			B	1d10
-Development Potential		B	1d10
-Precision			D	1d6
-Range				C	1d8
+Destructive Power		D	
+Speed				D	
+Persistence			B	
+Development Potential		B	
+Precision			D	
+Range				C	
