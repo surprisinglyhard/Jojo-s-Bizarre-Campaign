@@ -1,2 +1,40 @@
-when this stand touches an object it can recreact wounds that object has taken
-reverse cronological order?
+Phenomenon stand
+
+Stand Power: Can see into (Insert object) history and restore a part of its past
+example: if a person had a broken there leg she can restore the leg to when it was working and vice versa
+
+Destructive Power E
+Speed S
+Persistence E
+Development Potential E
+Precision S
+Range B
+
+User: Sozu Makishima
+Age:  17
+Sex:  F
+Birthday/Birthsign: May 10 Taurus
+Bloodtype:
+Birthplace:
+Height:
+Weight:
+Eye color:
+Hair color: black
+Eyesight/Colorblindness/Glasses:  Glasses
+Handness: Lefty
+Type of voice:
+History of surgeries/Cavities/Ilnesses:
+Scars, Burns/Skin damage, birthmarks, tattoos:
+Other physical characteristics:
+Race:
+Religion:
+Criminal records/Awards/Education:
+Forming experience as an infant/young child:
+Sexual history/lovers/toughts about love/marriage:
+People that the subject admires/hates:
+Dreams for the future:
+Fears:
+Personality traits, favorite sayings, habits:
+Relationships (incl. behavior):
+Family relationships:
+Problem relationships:
