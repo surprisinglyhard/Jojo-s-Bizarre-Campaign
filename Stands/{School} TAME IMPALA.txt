@@ -31,7 +31,7 @@ F: Very Weak			1d4
 User:
 Age:
 Sex:
-Birthday/Birthsign:
+Birthday/Birthsign: March 10th Pisces
 Bloodtype:
 Birthplace:
 Height:
