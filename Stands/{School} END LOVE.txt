@@ -21,7 +21,7 @@ Range E
 User:
 Age:
 Sex:
-Birthday/Birthsign:
+Birthday/Birthsign: June 14 Gemini
 Bloodtype:
 Birthplace:
 Height:
