@@ -1,1 +1,58 @@
-is unstopable and Can make an object unstopable within range
+Appearance
+Humanoid
+
+Behavior
+Non-sentient
+
+Stand Power
+Can fix an objects speed and direction making it unstopable
+
+Range
+
+Stand Type
+Short Distance/Long Distance/Auto Pilot
+
+Stand perameters
+Destructive Power
+Speed
+Persistence
+Development Potential
+Precision
+Range
+
+Ranks
+S: Unparalled			1d20
+A: Excellent			1d12
+B: Good				1d10
+C: Comparable to a Human	1d8
+D: Weak				1d6
+F: Very Weak			1d4
+
+User:
+Age:
+Sex:
+Birthday/Birthsign:
+Bloodtype:
+Birthplace:
+Height:
+Weight:
+Eye color:
+Hair color:
+Eyesight/Colorblindness/Glasses:
+Handness:
+Type of voice:
+History of surgeries/Cavities/Ilnesses:
+Scars, Burns/Skin damage, birthmarks, tattoos:
+Other physical characteristics:
+Race:
+Religion:
+Criminal records/Awards/Education:
+Forming experience as an infant/young child:
+Sexual history/lovers/toughts about love/marriage:
+People that the subject admires/hates:
+Dreams for the future:
+Fears:
+Personality traits, favorite sayings, habits:
+Relationships (incl. behavior):
+Family relationships:
+Problem relationships:
