@@ -10,15 +10,15 @@ Can fix an objects speed and direction making it unstopable
 Range
 
 Stand Type
-Short Distance/Long Distance/Auto Pilot
+Short Distance
 
 Stand perameters
-Destructive Power
-Speed
-Persistence
-Development Potential
-Precision
-Range
+Destructive Power B
+Speed A
+Persistence C
+Development Potential E
+Precision B
+Range B
 
 User:
 Age:
