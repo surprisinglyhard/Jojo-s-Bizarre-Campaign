@@ -20,14 +20,6 @@ Development Potential
 Precision
 Range
 
-Ranks
-S: Unparalled			1d20
-A: Excellent			1d12
-B: Good				1d10
-C: Comparable to a Human	1d8
-D: Weak				1d6
-F: Very Weak			1d4
-
 User:
 Age:
 Sex:
@@ -52,7 +44,21 @@ Sexual history/lovers/toughts about love/marriage:
 People that the subject admires/hates:
 Dreams for the future:
 Fears:
-Personality traits, favorite sayings, habits:
+Personality traits, favorite sayings, habits: Indecisive, Self-reflective, Reclusive, Creative / "Your next line is" / 
+  1) They are highly empathic and able to pick up on the emotions of others. In many ways, this “sixth sense” is a kind of third eye that empowers their psychic abilities.
+  2) Piscean men are feelers, meaning whatever emotion they are experiencing, it’s always intense.
 Relationships (incl. behavior):
 Family relationships:
 Problem relationships:
+Employment/school:
+Economic status/behavior:
+Pets/plants:
+Personality:
+Special fighting skills/abilities:
+Hobbies:
+Recreations:
+Likes/dislikes:
+Food/clothing/shelter:
+Habits:
+Favorite phrases:
+Others:
