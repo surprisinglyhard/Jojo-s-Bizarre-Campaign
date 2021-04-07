@@ -1,16 +1,18 @@
+d6 die based system
+
 AC
 Based on speed rank (meets it beats it)
-S - 15
-A - 11
-B - 9
-C - 7
-D - 5
+S - 21
+A - 17
+B - 14
+C - 10
+D - 7
 E - 3
 
 When close range stands do a western shoot out kind of deal they will roll speed before each bought
 
 Hit Points
-Equal to persistance score
+a rolled amount
 S - 20/21
 A - 18/19
 B - 16/17
@@ -25,17 +27,18 @@ Crits
 if all die crit you can roll the dice again and add the new value rolled to the initial number
 
 Wounds
+  -Wounds are taken after a stands defenses have been breached
 1. shaken
 2. incapacitated or deaths door
 
 
-refernce for relation to stand user stats
+refernce for stand user stats
 
-Power - Str
-Speed - Dex
-Range - Cha
-Durability - Con
-Precision - Wis
-Potential - Int
+Power - C
+Speed - C
+Range - C
+Durability - C
+Precision - C
+Potential -C
 
 
