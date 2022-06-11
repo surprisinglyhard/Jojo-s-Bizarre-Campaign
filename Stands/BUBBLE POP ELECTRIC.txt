@@ -31,18 +31,18 @@ D: Weak				2d6
 F: Very Weak			1d6
 
 User:
-Age:
-Sex:
+Age:  16
+Sex:  F
 Birthday/Birthsign:
 Bloodtype:
 Birthplace:
 Height:
 Weight:
 Eye color:
-Hair color:
+Hair color: Black short hair
 Eyesight/Colorblindness/Glasses:
-Handness:
-Type of voice:
+Handness: Right handed
+Type of voice: 
 History of surgeries/Cavities/Ilnesses:
 Scars, Burns/Skin damage, birthmarks, tattoos:
 Other physical characteristics:
