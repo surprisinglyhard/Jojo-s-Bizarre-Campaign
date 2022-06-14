@@ -22,12 +22,12 @@ Precision
 Range
 
 Ranks
-S: Unparalled			6d4
-A: Excellent			5d4
-B: Good				4d4
-C: Comparable to a Human	3d4
-D: Weak				2d4
-F: Very Weak			1d4
+S: Unparalled			        6d6
+A: Excellent			        5d6
+B: Good				            4d6
+C: Comparable to a Human	3d6
+D: Weak				            2d6
+F: Very Weak			        1d6
 
 User:
 Age:
