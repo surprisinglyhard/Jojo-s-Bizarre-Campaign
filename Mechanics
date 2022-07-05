@@ -60,6 +60,17 @@ E - 2
 Crits
 if all die rolls its maximum it is a crit and counts as 2 successes
 
+Damage
+rolls destructive power dice pool amount per hit success
+
+S - 6d6
+A - 5d6
+B - 4d6
+C - 3d6
+D - 2d6
+E - 1d6
+
+*do keep in mind stands can only be damaged by stands and stand related powers*
 
 refernce for stand user stats
 
