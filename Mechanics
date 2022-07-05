@@ -1,5 +1,20 @@
 d6 die based system
 
+Stand perameters:
+Destructive Power
+  -deals wounds
+Speed
+  -how hard the stand is to hit
+Persistence
+  -amount of successes needed to wound
+  -wound reduction
+Development Potential
+  -remove to add successes
+Precision
+  -to hit
+Range
+  -basically cosmetic
+
 AC
 Based on speed rank (meets it beats it)
 S - 11
@@ -12,7 +27,7 @@ E - 1
 When close range stands do a western shoot out kind of deal they will roll speed before each bought
 
 Hit Points
-toughness based
+Persistence based
 Wounds
   -Wounds are taken after a stands defenses have been breached
   -Wounds are taken when a stand user is attacked directly
@@ -28,7 +43,7 @@ C - 3
 D - 2
 E - 1
 
-additionally toughness reduces wounds based on difference between ranks
+additionally Persistence reduces wounds based on difference between ranks
 1 wound reduction per difference
 
 To Hit
