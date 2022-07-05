@@ -2,34 +2,48 @@ d6 die based system
 
 AC
 Based on speed rank (meets it beats it)
-S - 21
-A - 17
-B - 14
-C - 10
-D - 7
-E - 3
+S - 11
+A - 9
+B - 7
+C - 3
+D - 2
+E - 1
 
 When close range stands do a western shoot out kind of deal they will roll speed before each bought
 
 Hit Points
-a rolled amount
-S - 20/21
-A - 18/19
-B - 16/17
-C - 14/15
-D - 12/13
-E - 10/11
-
-To Hit
-Roll precision
-
-Crits
-if all die crit you can roll the dice again and add the new value rolled to the initial number
-
+toughness based
 Wounds
   -Wounds are taken after a stands defenses have been breached
+  -Wounds are taken when a stand user is attacked directly
+  
 1. shaken
-2. incapacitated or deaths door
+2. Wounds
+3. incapacitated/deaths door/donut
+
+S - 6
+A - 5
+B - 4
+C - 3
+D - 2
+E - 1
+
+additionally toughness reduces wounds based on difference between ranks
+1 wound reduction per difference
+
+To Hit
+Precision based
+equal to double state number
+
+S - 12
+A - 10
+B - 8
+C - 6
+D - 4
+E - 2
+
+Crits
+if all die rolls its maximum it is a crit and counts as 2 successes
 
 
 refernce for stand user stats
