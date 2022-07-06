@@ -1,0 +1,3 @@
+clown stand
+
+has the passive effects of all stands within a vicinity
