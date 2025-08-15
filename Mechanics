@@ -1,85 +1,23 @@
-d6 die based system
+/*Full rework*/
 
-Stand perameters:
-Destructive Power
-  -deals wounds
-Speed
-  -how hard the stand is to hit
-Persistence
-  -amount of successes needed to wound
-  -wound reduction
-Development Potential
-  -remove to add successes
-Precision
-  -to hit
-Range
-  -the range at which your stands abilities work
+Incrementing die system
+Players start with a die and when that die rolls the highest number it can they go up a die value and roll again keeping the highest die value rolled
+as the new base die to roll. ex: A player rolls a brawl check, they have a d4 for the stat and roll a 4, they now roll a d6 and roll a 2. Add that value to the previous roll
+that player now has a d6 for brawl
 
-AC
-Based on speed rank (meets it beats it)
-S - 11
-A - 9
-B - 7
-C - 3
-D - 2
-E - 1
+Everyone starts at a d4 for all stats
+stats being //under work still
 
-When close range stands do a western shoot out kind of deal they will roll speed before each bought
-the stand with more succesess attacks first
+Brawl - Ability to hurt others physically
+Charisma - Ability to charm others
+Sneak - Ability to operate without being seen
+Tech - Ability to operate machinery
+Tough - Ability to protect self from harm
+Wit - Being smart
 
-Hit Points
-Persistence based
-Wounds
-  -Wounds are taken after a stands defenses have been breached
-  -Wounds are taken when a stand user is attacked directly
-  
-1. shaken
-2. Wounds
-3. incapacitated/deaths door/donut
+Stand creation rather than being the stand stats youll select a series of modifiers that will alter how your stand operates
+starting with the base of: Long range stand - range of 50 meters, no other modifiers
 
-S - 6
-A - 5
-B - 4
-C - 3
-D - 2
-E - 1
-
-additionally Persistence reduces wounds based on difference between ranks
-1 wound reduction per difference
-
-To Hit
-Precision based
-equal to double state number
-
-S - 12
-A - 10
-B - 8
-C - 6
-D - 4
-E - 2
-
-Crits
-if all die rolls its maximum it is a crit and counts as 2 successes
-
-Damage
-rolls destructive power dice pool amount per hit success
-
-S - 6d6
-A - 5d6
-B - 4d6
-C - 3d6
-D - 2d6
-E - 1d6
-
-*do keep in mind stands can only be damaged by stands and stand related powers*
-
-refernce for stand user stats
-
-Power - C
-Speed - C
-Range - C
-Durability - C
-Precision - C
-Potential -C
-
-
+Modifiers:
+Modifiers will affect the stands range, bonuses to rolls, and stand abilities
+ex. Gain a +5 to all brawl checks involving your stand, reduce this stands range to 2 meters
