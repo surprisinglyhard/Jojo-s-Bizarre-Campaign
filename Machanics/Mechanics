@@ -24,3 +24,17 @@ Modifiers:
 Modifiers will affect the stands range, bonuses to rolls, and stand abilities
 ex. Gain a +5 to all brawl checks involving your stand, reduce this stands range to 2 meters
 
+INJURY
+THERE ARE 3 INJURY LEVELS
+SUPERFICIAL, SEVERE, ADRENALIZED
+WHEN A PLAYER FAILS A CHECK TO AVOID DAMAGE BY 5 OR MORE, THEY TAKE AN INJURY LEVEL
+SUPERFICIAL
+  -Your character gets an injury that looks badass
+  -No reprecussions
+SEVERE
+  -Your character recieves a debilitating injury
+  -A player with this injury level must spend double the amount of Tokens
+ADRENALIZED
+  -Your character is grievously wounded
+  -A player with this injury level recieves 10 Tokens. The next time this character fails a check to avoid injury, they become either Incapacitated or Dead, 
+  depending on the attackers intention
