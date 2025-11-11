@@ -1,20 +1,21 @@
-/*Full rework*/
+Using Incrementing die system
 
-Incrementing die system
-Players start with a die and when that die rolls the highest number it can they go up a die value and roll again keeping the highest die value rolled
-as the new base die to roll. ex: A player rolls a brawl check, they have a d4 for the stat and roll a 4, they now roll a d6 and roll a 2. Add that value to the previous roll
-that player now has a d6 for brawl
+Whenever a CHARACTER rolls the highest value on their die it CRITS.
+Everytime a character CRITS on a skill check that skill goes up a die type. They then roll the new die and add the results together for the current skill check. 
+Ex: A player rolls a BRAWL check, they have a d4 for the stat and roll a 4, they now roll a d6 and roll a 2, adding that value to the previous roll for a total check of 6. That player now has a d6 for BRAWL.
 
 Everyone starts at a d4 for all stats
+
 stats being //under work still
 
-Brawl - Ability to hurt others physically
-Hot - Ability to charm others
-Sneak - Ability to operate without being seen
-Stunts - Ability to physically evade damage
-Tech - Ability to operate machinery
-Tough - Ability to protect self from harm
-Wit - Being smart
+Brawl - Checks to harm others physically
+Charisma - Checks to be percieved a certain way
+Sneak - Checks to operate without being seen
+Stunts - Checks to move rapidly or evade
+Tech - Checks to operate machinery
+Tough - Checks to protect self from injury
+Wit - Checks to discern and/or inspire
+Instinct - Checks to sense danger
 
 Stand creation rather than being the stand stats youll select a series of modifiers that will alter how your stand operates
 starting with the base of: Long range Humanoid stand - range of 50 meters, no other modifiers
@@ -22,3 +23,4 @@ starting with the base of: Long range Humanoid stand - range of 50 meters, no ot
 Modifiers:
 Modifiers will affect the stands range, bonuses to rolls, and stand abilities
 ex. Gain a +5 to all brawl checks involving your stand, reduce this stands range to 2 meters
+
