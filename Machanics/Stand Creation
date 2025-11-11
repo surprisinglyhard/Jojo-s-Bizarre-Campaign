@@ -1,18 +1,20 @@
-Creating  a Stand involes maching the mechanical parts and attaching a stand ability
+Creating a Stand involes maching the mechanical parts and attaching a stand ability
 
 Creating mechanically
 Choose a range for your stand to physically operate within. //The stands physical range is not neccesarily the stands ability range
 
-  Close range	1-2 Meters:           +5 to Brawl and tough checks
-  Long range	50 meters:            No Bonus
-  Automatic	  Conditional:  	      +5 to Brawl and tough checks
-  Zero Range	Within or on body:  	+10 to Brawl and tough checks
+  Close range	  1-2 Meters:           +5 to Brawl and tough checks
+  Long range	  50 meters:            No Bonus
+  Automatic	    Conditional:  	      +5 to Brawl and tough checks
+  Zero Range	  Within or on body:  	+10 to Brawl and tough checks
 
-Then Apply Modifiers to your stand to make it more unique
+Then Apply 4 Modifiers to your stand to make your character more unique
 
+  Multi Unit:                     Your stand is 2-6 units and is now tiny. damage dealt to this stand is fractionally returned to the user.
+  Colony Stand:                   Damage dealt to this stand is not dealt to the user. The stand is now tiny and 300 units.
   Good Looking:	                  Lower the DC of a Hot Check by 3 when making a first impression.
   Pure of Heart:	                Lower the DC of a Hot Check by 3 when searching for a helpful ally.
-  High Stand Potantial:	          Gain 2 Tokens when you fail a check.
+  High Stand Potential:	          Gain 2 Tokens when you fail a check.
   The Joestar Secret Technique:	  Lower the DC of any Check by 1 when Running Away.
   Flashy:	                        Lower the DC of a Hot Check by 5 if it’s the first roll after you’ve crit.
   Has a Drivers License:	        Lower the DC of a Tech Check by 3 if it involes driving.
