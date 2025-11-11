@@ -12,22 +12,22 @@ Then Apply 4 Modifiers to your stand to make your character more unique
 
   Multi Unit:                     Your stand is 2-6 units and is now tiny. damage dealt to this stand is fractionally returned to the user.
   Colony Stand:                   Damage dealt to this stand is not dealt to the user. The stand is now tiny and 300 units.
-  Good Looking:	                  Lower the DC of a Hot Check by 3 when making a first impression.
-  Pure of Heart:	                Lower the DC of a Hot Check by 3 when searching for a helpful ally.
+  Good Looking:	                  Lower the DC of a Charisma Check by 3 when making a first impression.
+  Pure of Heart:	                Lower the DC of a Charisma Check by 3 when searching for a helpful ally.
   High Stand Potential:	          Gain 2 Tokens when you fail a check.
   The Joestar Secret Technique:	  Lower the DC of any Check by 1 when Running Away.
-  Flashy:	                        Lower the DC of a Hot Check by 5 if it’s the first roll after you’ve crit.
+  Flashy:	                        Lower the DC of a Charisma Check by 5 if it’s the first roll after you’ve crit.
   Has a Drivers License:	        Lower the DC of a Tech Check by 3 if it involes driving.
   Inspiring:	                    Each time you succeed at a check, an ally of your choice receives 1 Token.
   Loyal:                        	Your Tokens give friends +1 at a one-to-one rate.
   Lucky:                        	Once Per Episode Spend 2 Tokens to reroll any check.
-  Menacing:                      	Use Brawl instead of Hot when intimidating an NPC.
+  Menacing:                      	Use Brawl instead of Charisma when intimidating an NPC.
   Nerves of Steel:              	Spend a Token to treat a snap decision as a Prepared Action.
   Poker Face:                    	When attempting to conceal the truth, use Tough instead of Hot.
   Prepared:                      	Spend 2 Tokens to just happen to have one commonplace item with you.
   Protector:                    	Lower the DC of a check by 3 when defending your friends.
   Quick Healing:                	Recover one injury level at the end of an encounter.
-  Resilient:                    	Turbo Tokens are worth double when used to boost against an attack that targets you.
+  Resilient:                    	Tokens are worth double when used to boost against an attack that targets you.
   Skilled:                      	Increase your die type for one skill by 1 for the purposes of halving.
   Flashback:                    	Describe a pep talk you gave earlier to spend Turbo Tokens for a friend, even when you are not present.
   Stealthy:                       Lower the DC of a Sneak Check by 3 when trying to avoid being seen.
@@ -44,18 +44,18 @@ Then Apply 4 Modifiers to your stand to make your character more unique
   Fast Hands:                     When an opponent attacks you, if you are within range of it, and no other hostile creatures are near you, use Brawl instead of Tough. 
   Death Flag:                     Once per episode, Roll tough on someone else's behalf.
   Shine on:                       Once per episode, Lend a teamate a skill die.
-  Famous:                         Roll HOT in response to the first attack of an encounter to dissuade an opponent.
+  Famous:                         Roll Charisma in response to the first attack of an encounter to dissuade an opponent.
   Cooled Off:                     Roll twice on the first roll after an injury.
   Gangstar:                       After criting twice in a row, double the amount of tokens you have.
   Mulitasking:                    You and your stand may both take actions provided the first is successful.
-  Hot Stuff:                      Two succesful Hot checks auto-succeed on stealing from an npc.
-  Get Jumped:                     In a scene where every player (minimum 3) uses a difrent skill, reduce your range to crit by 1.
+  Hot Stuff:                      Two succesful Charisma checks auto-succeed on stealing from an npc.
+  Get Jumped:                     In a scene where every player (minimum 3) uses a different skill, reduce your range to crit by 1.
   Together:                       Once per episode, you and another player roll the same skill and add the totals together.
   Jojo Pose:                      Once per episode, you may strike a pose and take two Tokens.
-  Kono Powa:                      Beating an oponent by 10 or more means you deal an additional injury.
+  Doughnut:                       Beating an oponent by 10 or more means you deal an additional injury.
   The One:                        Once per episode, Treat a Nat 1 as a max die roll.
   Switch Tactics:                 Once per episode, Reroll a Faliure with a different skill.
-  Pallet Swap:                    Once per Episode, Accept a Critical Faliure to gain half Tokens of the die value.
-  Infiite Growth:                 On a Nat 20, Restart that skill track, now rolling an additional die and taking the better result.
+  Palette Swap:                   Once per Episode, Accept a Critical Faliure to gain half Tokens of the die value.
+  Infinite Growth:                On a Nat 20, Restart that skill track, now rolling an additional die and taking the better result.
   Battle Tendency:                On a Nat 20, Everybody else at the table graduates all of their lowest die type up by one.
   Requiem:                        On a Nat 20, Become the GM for 60 seconds.
